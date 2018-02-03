@@ -3,6 +3,9 @@
 
 .idea
 
+app/migrations
+app/__pycache__
+
 # Log file
 *.log
 
